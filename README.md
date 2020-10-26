@@ -23,10 +23,14 @@ is that it builds a set of functions and returns the functions within a list to 
 # cacheSolve () 
 calculates and / or retrieves the inverse of an object of type makeCacheMatrix ()
 
-1- calls the getInversa() function on the input object
-2- checks to see whether the result is NULL
-3- cached matrix and can return it to the parent environment
-4- If the result of !is.null(m) is FALSE, calculates a inv whit solve()
+1- calls the getInversa() function on the input object.
+
+2- checks to see whether the result is NULL.
+
+3- cached matrix and can return it to the parent environment.
+
+4- If the result of !is.null(m) is FALSE, calculates a inv whit solve().
+
 5- returns the value of the inverse to the parent environment by printing the inverse matrix object.
   
 
