@@ -3,7 +3,7 @@ Repository created to share the assignment of the third week.
 
 #makeCacheMatrix() 
 is that it builds a set of functions and returns the functions within a list to the parent environment.
-1- initialize objects x and inv
+1- initialize objects x and inv /
 2- define the set function.   
 3- Assign the input argument to the x object in the parent environment
 4- Assign the value of NULL to the inv object in the parent environment. 
